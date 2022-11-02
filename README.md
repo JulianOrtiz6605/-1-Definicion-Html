@@ -34,3 +34,5 @@ Fue el creador de Html para mejorar el flujo de información en su lugar de trab
 1998- 4.0
 
 2000- 5.0 o Html5 Con la llegada de los dispositivos móviles para soportar caraterísticas más robustas como archivos de audio, video y gráficos SVG.
+        
+[https://julianortiz6605.github.io/-1-Definicion-Html/]
